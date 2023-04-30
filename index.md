@@ -6,3 +6,7 @@
 ###### This is H6 header
 
 Different types of headers in MarkDown are shown above.
+
+
+## Here's an example of adding image:
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
