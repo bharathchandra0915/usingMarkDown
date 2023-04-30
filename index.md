@@ -28,11 +28,13 @@ For inline code: 'git pull' used to fetch and download content from a remote rep
 
 Emojis :heart_eyes: :ghost: ` :wink: ` :wink:
 
-#### Creating checkbox
+### Creating checkbox
 - [x] Start camera using ` cv2.videoCapture(0) `. 0 is for the default camera of your system. Use 1 if you have an external webcam.
 - [ ] Run a while loop 
 - [ ] display the captured frame using 'cv2.imshow()`
 - [ ]  `(cv2.waitKey(1))`  waits for 1 millisecond until the next frame is shown.
 
 Fill the ` [ ] ` with `x` to tick the checkbox.
+
+> Visit my gitHub [Bharath Chandra](https://github.com/bharathchandra0915) 
 
