@@ -20,6 +20,7 @@ Different types of headers in MarkDown are shown above.
 ### Install Mediapipe
 ``` pip install mediapipe ```
 > Mediapipe supported with python 3.7 version
+
 For inline code: 'git pull' used to fetch and download content from a remote repository and immediately update the local repository to match that content.
 Emojis :heart_eyes: :ghost: ` :wink: ` :wink:
 ### Creating checkbox
